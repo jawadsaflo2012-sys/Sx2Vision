@@ -1,0 +1,5 @@
+dependencyResolutionManagement {
+    repositories { google(); mavenCentral() }
+}
+rootProject.name = "Sx2Vision"
+include ':app'
